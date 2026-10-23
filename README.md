@@ -12,7 +12,6 @@
 <p align="center">
   <a href="https://guns.lol/mintydev_"><img src="https://img.shields.io/badge/Bio-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="Bio"></a>
   <a href="https://github.com/OfficialMintyDev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://discord.gg/tu-servidor"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
 ---
