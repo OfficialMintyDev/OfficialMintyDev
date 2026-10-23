@@ -50,10 +50,10 @@
 
 ---
 
-### ✍️ Frase Developer
+### ✍️ Frase Favorita
 
-> *"Cualquier esquema tecnológico o administrativo para forzar la documentación puede ser subvertido por programadores desganados."*  
-> — **Daniel T. Barry**
+> *"Haz que todo tu esfuerzo se convierta en un glorioso propósito."*  
+> — **Loki**
 
 ---
 
